@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android_ColorCube_Clicker3colors", "Android_ColorCube_Clicker3colors.csproj", "{BF93115F-100F-E282-B733-ECD73D0E3FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android_ColorCube_Clicker3colors.Plugins", "Android_ColorCube_Clicker3colors.Plugins.csproj", "{2756402D-D2EC-A75C-AC21-A1D4E8836FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android_ColorCube_Clicker3colors.Editor", "Android_ColorCube_Clicker3colors.Editor.csproj", "{5F3DD389-D63F-2779-24ED-BF78D6C74ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF93115F-100F-E282-B733-ECD73D0E3FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF93115F-100F-E282-B733-ECD73D0E3FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF93115F-100F-E282-B733-ECD73D0E3FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF93115F-100F-E282-B733-ECD73D0E3FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2756402D-D2EC-A75C-AC21-A1D4E8836FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2756402D-D2EC-A75C-AC21-A1D4E8836FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2756402D-D2EC-A75C-AC21-A1D4E8836FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2756402D-D2EC-A75C-AC21-A1D4E8836FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3DD389-D63F-2779-24ED-BF78D6C74ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3DD389-D63F-2779-24ED-BF78D6C74ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3DD389-D63F-2779-24ED-BF78D6C74ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3DD389-D63F-2779-24ED-BF78D6C74ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
